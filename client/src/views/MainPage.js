@@ -19,6 +19,7 @@ const MainPage = (props) => {
             <div className="container-fluid py-1" style={{backgroundColor:"black"}}>
                 <BioPage/>
             </div>
+            <div id="synth-container"></div>
             <div className="container-fluid py-1" style={{backgroundColor:"rgb(25,25,25)"}}>
                 <SynthApp/>
             </div>

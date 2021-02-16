@@ -30,7 +30,7 @@ const NavBar = (props) => {
                             <NavLink className="nav-link scroll-link" href="#bio-container">Bio</NavLink>
                         </NavItem>
                         <NavItem className="nav-item">
-                            <NavLink className="nav-link scroll-link" href="#top">SynthApp</NavLink>
+                            <NavLink className="nav-link scroll-link" href="#synth-container">SynthApp</NavLink>
                         </NavItem>
                         <NavItem className="nav-item">
                             <NavLink className="nav-link scroll-link" href="#experience-container">Experience</NavLink>
