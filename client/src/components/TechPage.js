@@ -4,36 +4,36 @@ const TechPage = (props) => {
 // ADD PICTURE
     return (
         <div className="container my-4">
-            <div className="row">
+            <div className="row justify-content-center">
                 <div className="col section-2-box wow fadeInLeft">
                     <h3 className="whitesmoke">Technologies:</h3>
                     <hr />
-                    <h6 className="whitesmoke" >Software Development:</h6>
+                    <h6 className="bluetext" >Software Development:</h6>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        Coding Languages: C#, Python, JavaScript, CSS, HTML
+                        <span className="pinktext"> Coding Languages</span>: C#, Python, JavaScript, CSS, HTML
                     </p>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        Frameworks/Libraries: ASP.NET, Django, Express, React, Node, Bootstrap, jQuery
+                        <span className="pinktext">Frameworks/Libraries</span>: ASP.NET, Django, Express, React, Node, Bootstrap, jQuery
                     </p>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        Databases: MongoDB, SQLite, MySQL
+                        <span className="pinktext">Databases</span>: MongoDB, SQLite, MySQL
                     </p>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        Other Tools: Amazon Web Services (AWS), Nginx, Gunicorn
+                        <span className="pinktext">Other Tools</span>: Amazon Web Services (AWS), Nginx, Gunicorn
                     </p>
-                    <h6 className="whitesmoke" >Producing/Audio Engineering:</h6>
+                    <h6 className="bluetext" >Producing/Audio Engineering:</h6>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        DAWs: ProTools, Ableton Live, Cubase, and Logic
-                    </p>
-                    <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        Plug-Ins: Izotope RX, Antares AutoTune, UAD Plug-ins, NI Komplete Kontrol, Serum, Pro-Q etc.
-                    </p>
-                    <h6 className="whitesmoke" >Musical Instruments:</h6>
-                    <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        Instruments:
+                        <span className="pinktext">DAWs</span>: ProTools, Ableton Live, Cubase, and Logic
                     </p>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        Genres: Jazz, Pop, RnB, Rock, Blues, Indie, Metal, Classical, Prog, Electronic, etc. 
+                        <span className="pinktext">Plug-Ins</span>: Izotope RX, Antares AutoTune, UAD Plug-ins, NI Komplete Kontrol, Serum, Pro-Q, etc.
+                    </p>
+                    <h6 className="bluetext" >Musical Instruments:</h6>
+                    <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
+                        <span className="pinktext">Instruments</span>: Electric Guitar, Acoustic Guitar, Classical Guitar, Drum Kit, Hand Percussion, Electric Bass, Synthesizer, and Keyboard
+                    </p>
+                    <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
+                        <span className="pinktext">Genres</span>: Jazz, Pop, RnB, Rock, Blues, Indie, Metal, Classical, Prog, Electronic, etc. 
                     </p>
                 </div>
             </div>

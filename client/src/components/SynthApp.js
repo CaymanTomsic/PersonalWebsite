@@ -16,7 +16,7 @@ const SynthApp = (props) => {
                 <div className="row w-50 align-items-center">
                     <div className="d-flex justify-content-center">
                         <p className="whitesmoke indent" style={{textAlign: "left"}}>
-                            SynthApp is a dual oscillator, browser-based synthesizer built on the open-source Beep.js platform. SynthApp is currently in an open Beta stage. The current build features fully functional and modifiable oscillators, basic patch saving/loading, and Web MIDI support. At this stage the GUI and UX are currently still in development. One of the newest features being implemented is the ability to share and browse presets made by other users.
+                            <a href="http://3.129.13.142/">SynthApp</a> is a dual oscillator, browser-based synthesizer built on the open-source Beep.js platform. SynthApp is currently in an open Beta stage. The current build features fully functional and modifiable oscillators, basic patch saving/loading, and Web MIDI support. At this stage, the GUI and UX are still in development. One of the newest features being implemented is the ability to share and browse presets made by other users.
                         </p>
                     </div>
                 </div>

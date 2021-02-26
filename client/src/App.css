@@ -47,6 +47,16 @@ body{
   text-shadow: #000 0px 0px 1px;
 }
 
+.bluetext{
+  color: rgb(59, 180, 255);
+  text-shadow: #000 0px 0px 1px;
+}
+
+.pinktext{
+  color: rgb(255, 145, 172);
+  text-shadow: #000 0px 0px 1px;
+}
+
 .video-page{
   width: 50rem !important;
 }
