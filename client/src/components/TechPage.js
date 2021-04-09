@@ -5,22 +5,24 @@ const TechPage = (props) => {
     return (
         <div className="container my-4">
             <div className="row justify-content-center">
-                <div className="col section-2-box wow fadeInLeft">
+                <div className="col">
                     <h3 className="whitesmoke">Technologies:</h3>
                     <hr />
                     <h6 className="bluetext" >Software Development:</h6>
-                    <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        <span className="pinktext"> Coding Languages</span>: C#, Python, JavaScript, CSS, HTML
-                    </p>
-                    <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        <span className="pinktext">Frameworks/Libraries</span>: ASP.NET, Django, Express, React, Node, Bootstrap, jQuery
-                    </p>
-                    <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        <span className="pinktext">Databases</span>: MongoDB, SQLite, MySQL
-                    </p>
-                    <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        <span className="pinktext">Other Tools</span>: Amazon Web Services (AWS), Nginx, Gunicorn
-                    </p>
+                    <div className="d-flex justify-self-center flex-column align-items-start" >
+                        <p className="medium-paragraph whitesmoke">
+                            <span className="pinktext"> Coding Languages</span>: C#, Python, JavaScript, CSS, HTML
+                        </p>
+                        <p className="medium-paragraph whitesmoke">
+                            <span className="pinktext">Frameworks/Libraries</span>: ASP.NET, Django, Express, React, Node, Bootstrap, jQuery
+                        </p>
+                        <p className="medium-paragraph whitesmoke">
+                            <span className="pinktext">Databases</span>: MongoDB, SQLite, MySQL
+                        </p>
+                        <p className="medium-paragraph whitesmoke">
+                            <span className="pinktext">Other Tools</span>: Amazon Web Services (AWS), Nginx, Gunicorn
+                        </p>
+                    </div>
                     <h6 className="bluetext" >Producing/Audio Engineering:</h6>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
                         <span className="pinktext">DAWs</span>: ProTools, Ableton Live, Cubase, and Logic
