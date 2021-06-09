@@ -97,7 +97,7 @@ const VideoPage = () => {
                     </div>
                     <div className="description">
                             <h6 className="whitesmoke p-1 my-1" style={{border: "1px solid #f1f1f1", backgroundColor: "rgba(0,0,0, 0.4)"}}>
-                                These are original, guitar-based compositions originally uploaded on the public <a href="https://www.instagram.com/caymant/?hl=en">@CaymanT</a> Instagram artist page
+                                These are original, guitar-based compositions and covers originally uploaded on the public <a href="https://www.instagram.com/caymant/?hl=en">@CaymanT</a> Instagram artist page
                             </h6>
                     </div>
                 </div>

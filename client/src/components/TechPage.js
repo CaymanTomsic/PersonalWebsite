@@ -20,22 +20,22 @@ const TechPage = (props) => {
                             <span className="pinktext">Databases</span>: MongoDB, SQLite, MySQL
                         </p>
                         <p className="medium-paragraph whitesmoke">
-                            <span className="pinktext">Other Tools</span>: Amazon Web Services (AWS), Nginx, Gunicorn
+                            <span className="pinktext">Deployment Tools</span>: Amazon Web Services (AWS), Nginx, Gunicorn
                         </p>
                     </div>
                     <h6 className="bluetext" >Producing/Audio Engineering:</h6>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        <span className="pinktext">DAWs</span>: ProTools, Ableton Live, Cubase, and Logic
+                        <span className="pinktext">DAWs</span>: Pro Tools, Ableton Live, Cubase, and Logic
                     </p>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
                         <span className="pinktext">Plug-Ins</span>: Izotope RX, Antares AutoTune, UAD Plug-ins, NI Komplete Kontrol, Serum, Pro-Q, etc.
                     </p>
                     <h6 className="bluetext" >Musical Instruments:</h6>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        <span className="pinktext">Instruments</span>: Electric Guitar, Acoustic Guitar, Classical Guitar, Drum Kit, Hand Percussion, Electric Bass, Synthesizer, and Keyboard
+                        <span className="pinktext">Instruments</span>: Electric/Acoustic/Classical Guitar, Drum Kit, Hand Percussion, Electric Bass, Synthesizer, and Keyboard
                     </p>
                     <p className="medium-paragraph whitesmoke" style={{textAlign: "left"}}>
-                        <span className="pinktext">Genres</span>: Jazz, Pop, RnB, Rock, Blues, Indie, Metal, Classical, Prog, Electronic, etc. 
+                        <span className="pinktext">Genres</span>: Jazz, Pop, RnB, Rock, Blues, Indie, Metal, Classical, Prog, Electronic, etc.
                     </p>
                 </div>
             </div>
