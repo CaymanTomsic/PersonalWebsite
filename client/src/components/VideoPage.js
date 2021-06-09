@@ -20,6 +20,10 @@ const items = [
     {
         src: 'https://www.youtube.com/embed/8lHKLaosPfU',
         altText: 'Slide 3',
+    },
+    {
+        src: 'https://www.youtube.com/embed/19njk6Wwc1A',
+        altText: 'Slide 4',
     }
 ];
 
